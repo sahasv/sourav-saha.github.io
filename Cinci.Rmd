@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: times, Open Sans'>The Midwest (Ohio & Kentucky region)</style>"
+title: "<span style='font-family: times, Open Sans'>The Midwest & the New England Region</style>"
 output: 
   html_document:
     css: CSSBackgrounds.css

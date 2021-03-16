@@ -18,6 +18,7 @@ text-align: justify}
 <br>
 <br>
 <br>
+<br>
 
 <p style="font-family: times, Open Sans; font-size:14pt">
 **Courses Developed & Taught at Northern Kentucky University (2018–2020)**

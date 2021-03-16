@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: times, Open Sans'>GLY 120: This Dangerous Earth, Fall 2018</style>"
+title: "<span style='font-family: times, Open Sans'>GLY 120: This Dangerous Earth</style>"
 output: 
   html_document:
     css: CSSBackgrounds.css

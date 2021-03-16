@@ -16,7 +16,7 @@ navbar:
     - text: "My blog"
       href: MyBlog.html    
       
-  right: 
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<sahasv@mail.uc.edu>
     - text: "scholar"

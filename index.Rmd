@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: times, Open Sans'>Sourav Saha, Ph.D.</style>"
+title: "<span style='font-family: times, Open Sans'>Sourav Saha</style>"
 output: 
   html_document:
     css: CSSBackgrounds.css
@@ -18,10 +18,65 @@ body {
 text-align: justify}
 </style>
 
-<p style="font-family: times, Open Sans; font-size:12.5pt">
-My research and teaching interests are focused on the use of geomorphic, geochronologic, sedimentary, remote sensing, and numerical modeling tools to quantify surface processes, landscape evolution, active tectonics, and paleoclimatic changes. My goal is to understand the dynamic interaction between climate, tectonics, and landscapes, especially in tectonically active and environmentally sensitive regions. My [projects](Research.html) involves extensive field data collection, including remote sensing and GIS mapping using unmanned aerial vehicles (UAVs) and high-resolution [Structure from Motion (SfM) photogrammetry](Sfm.html). I complement field data with geochronometric analysis in laboratories. I apply and develop a variety of geochronometers, especially [luminescence (e.g., OSL, IRSL)]( UCLA_LumLab.html) and [cosmogenic surface exposure (e.g., $^{10}$Be, $^{26}$Al)]( https://lewisaowen.wixsite.com/main) dating techniques. I use these geochronometers for dating glacial landforms, Quaternary alluvial deposits, and earthquake event horizons. I also use these methods to quantify hillslope erosion rates and model sediment routing and depositional events. Currently, I am utilizing python-based landscape evolution models (e.g., [Landlab](http://landlab.github.io/#/)) and Matlab-based topographic analysis tools (e.g., [TopoToolbox](https://topotoolbox.wordpress.com/)), where I am incorporating field, remote sensing, and geochronologic data to model landscape evolution. 
+
+<!--<p style="font-family: times, Open Sans; font-size:14pt">
+*Assistant Professor*
 </p>
 <br>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Office:** XXXXXX
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Email:** sahasv@mail.uc.edu
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Office Phone:** 513 250 8680
+</p>-->
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Email:** sahasv@mail.uc.edu
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+**Phone:** 513 250 8680
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Education**
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Postdoctoral Research Scholar, University of California, Los Angeles
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+Ph.D., University of Cincinnati, Cincinnati
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+M.Phil., Jawaharlal Nehru University, New Delhi
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+MA., Jawaharlal Nehru University, New Delhi
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+BA., North Bengal University, Siliguri
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**Research Interests**
+</p>
+<p style="font-family: times, Open Sans; font-size:12pt">
+***Geomorphology, Geochronology, Tectonic Geomorphology, Landscape Evolution, Glacial Geology, Sedimentology & Stratigraphy, Paleoclimatology***
+</p>
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+My research and teaching interests are focused on the use of geomorphic, geochronologic, sedimentary, remote sensing, and numerical modeling tools to quantify surface processes, landscape evolution, active tectonics, and paleoclimatic changes. My goal is to understand the dynamic interaction between climate, tectonics, and landscapes, especially in tectonically active and environmentally sensitive regions. My [projects](Research.html) involve extensive field data collection, including remote sensing and GIS mapping using unmanned aerial vehicles (UAVs) and high-resolution [Structure from Motion (SfM) photogrammetry](Sfm.html). I complement field data with geochronometric analysis in laboratories. I apply and develop various geochronometers, especially [luminescence (e.g., OSL, IRSL)]( UCLA_LumLab.html) and [cosmogenic surface exposure (e.g., $^{10}$Be, $^{26}$Al)]( https://lewisaowen.wixsite.com/main) dating techniques. I use these geochronometers for dating glacial landforms, Quaternary alluvial deposits, and earthquake event horizons. I also use these methods to quantify hillslope erosion rates and model sediment routing and depositional events.
+</p>
+<br>
+
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 My [present and past projects](Research.html) are mainly focused on the tectonically active northwestern Himalaya and North American southwest. I plan to extend these projects further and also explore additional exciting problems, such as:
 </p>
@@ -43,21 +98,46 @@ modeling the evolution of asymmetric valleys and the role of microclimate in the
 </p>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-Know more about my research [here](Research.html)
-</p>
-<br>
-<p style="font-family: times, Open Sans; font-size:12.5pt">
-I am also extremely passionate about teaching geology, especially in the field. I am committed to implementing (pedagogically sound) active learning strategies in the classrooms that intentionally and actively foster equality and inclusiveness. My expertise as a field geologist and skills in operating inexpensive but innovative technologies, both in the field and inside the classroom, help me become a dynamic teacher. Through my teaching and research, I strive to ensure that my students perform at their fullest potential and flourish in the competitive professional world, irrespective of their backgrounds and affiliations.
-</p>
-
-<p style="font-family: times, Open Sans; font-size:12.5pt">
-Know more about my teaching [here](Teaching.html)
+Know more about my research [here](Research.html) and teaching [here](Teaching.html)
 </p>
 <br>
 
 <p style="font-family: times, Open Sans; font-size:14pt">
-**Everything about Geology interests me, so LET’S COLLABORATE**
+**Courses**
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GLY 110: The Face of the Earth with Lab*
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GLY 110: The Face of the Earth with Lab*
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GLY 120: This Dangerous Earth*
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GEOL 1002: Surface Processes*
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*GEOL 1009: Natural Hazards*
+</p>
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+*EVST/GEOL 2025: Hydrology and Biogeochemistry*
+</p>
+<br>
+
+<p style="font-family: times, Open Sans; font-size:14pt">
+**“Alone we can do so little; together we can do so much”***― Helen Keller*
+</p>
+<p style="font-family: times, Open Sans; font-size:14pt">
+**So, LET’S COLLABORATE!**
 </p>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-*Feel free to get in touch*</p> <p style="font-family: times, Open Sans; font-size:14pt">
+*and feel free to get in touch*</p> 
+<p style="font-family: times, Open Sans; font-size:14pt">
 [**Contact me**](Contactme.html)</p>

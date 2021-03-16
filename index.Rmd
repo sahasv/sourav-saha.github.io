@@ -138,4 +138,5 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 **So, LET’S COLLABORATE!** *and feel free to get in touch*
 </p>
 <p style="font-family: times, Open Sans; font-size:14pt">
-[**Contact me**](Contactme.html)</p>
+[**Contact me**](Contactme.html)
+</p>

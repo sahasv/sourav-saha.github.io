@@ -4,7 +4,7 @@ navbar:
   
   left:
     - icon: fa-home
-      href: Home.html
+      href: index.html
     - text: "Research"
       href: Research.html
     - text: "Teaching"

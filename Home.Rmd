@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-family: times, Open Sans'>About me</style>"
+title: "<span style='font-family: times, Open Sans'>Sourav Saha, Ph.D.</style>"
 output: 
   html_document:
     css: CSSBackgrounds.css

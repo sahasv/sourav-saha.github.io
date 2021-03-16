@@ -111,10 +111,6 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 </p>
 +
 <p style="font-family: times, Open Sans; font-size:12.5pt">
-*GLY 110: The Face of the Earth with Lab*
-</p>
-+
-<p style="font-family: times, Open Sans; font-size:12.5pt">
 *GLY 120: This Dangerous Earth*
 </p>
 +
@@ -135,7 +131,7 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 **“Alone we can do so little; together we can do so much”***― Helen Keller*
 </p>
 <p style="font-family: times, Open Sans; font-size:14pt">
-**So, LET’S COLLABORATE!** *and feel free to get in touch*
+So, **LET’S COLLABORATE** *and feel free to get in touch*
 </p>
 <p style="font-family: times, Open Sans; font-size:14pt">
 [**Contact me**](Contactme.html)

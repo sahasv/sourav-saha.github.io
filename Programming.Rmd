@@ -4,12 +4,30 @@ output:
   html_document:
     css: CSSBackgrounds4.css
 ---
+<style>
+body {
+text-align: justify}
+</style>
 
+<br>
+<br>
+<br>
+<br>
 <p style="font-family: times, Open Sans; font-size:12.5pt">
 I am currently updating this webpage.
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
++
+<p style="font-family: times, Open Sans; font-size:12.5pt">
+***[Basic-Luminescence-Analysis](https://github.com/sahasv/Basic-Luminescence-Analysis)*** *The objective is to analyze luminescence results quickly and efficiently to estimate equivalent doses, visualize the data, and perform athermal fading correction. This is a crude first draft of the analysis. A more comprehensive script will be made available soon to the public, preferably by the end of July.*
+</p>
+<br>
 
 
 

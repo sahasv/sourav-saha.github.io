@@ -11,7 +11,7 @@ output:
 <div style= "float:right;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="150px", fig.align='left'}
 
-knitr::include_graphics("https://i.imgur.com/HGtISokm.png") 
+knitr::include_graphics("https://i.imgur.com/6pgmuyP.png") 
 
 ```
 </div>

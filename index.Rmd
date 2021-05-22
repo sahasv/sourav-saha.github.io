@@ -130,7 +130,7 @@ Know more about my research [here](Research.html) and teaching [here](Teaching.h
 <div style= "float:right;position: relative; right: 30px; top: -7px;">
 ```{r echo=FALSE, out.width="100px", fig.align='left'}
 
-knitr::include_graphics("https://i.imgur.com/HGtISokm.png") 
+knitr::include_graphics("https://i.imgur.com/6pgmuyP.png") 
 
 ```
 </div>

@@ -32,6 +32,10 @@ text-align: justify}
 </p>
 
 <p style="font-family: times, Open Sans; font-size:12.5pt">
+Castillo, B., McGill1, S.F., Scharer, K.M., Yule, J.D., McPhillips, D., McNeil, J., **Saha, S.**, Brown, N.D., and Moon, S. 2021. Ages of Prehistoric Earthquakes on the Banning Strand of the San Andreas Fault, near North Palm Springs, California. *Geosphere 17, 1–26.* [**pdf copy**](files/Castillo_et al.,_2021.pdf) (https://dx.doi.org/10.1130/GES02237.1)
+</p>
+
+<p style="font-family: times, Open Sans; font-size:12.5pt">
 Orr, E.N., Owen, L.A., **Saha, S.**, Hammer, S., and Caffee, M.W. 2020. Rockwall slope erosion in the NW Himalaya. *Journal of Geophysical Research - Earth Surface, preprint.* [**pdf copy**](files/Orr_et_al.2020b.pdf) (https://doi.org/10.1029/2020JF005619)
 </p>
 
